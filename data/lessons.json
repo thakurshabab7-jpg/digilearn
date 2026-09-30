@@ -1,0 +1,319 @@
+[
+  {
+    "id": "hardware",
+    "title": "Hardware",
+    "icon": "🖥️",
+    "intro": "Hardware means the physical parts of a computer that you can touch. Learn what each part does and why it is important.",
+    "type": "cards",
+    "items": [
+      {
+        "name": "Monitor",
+        "icon": "🖥️",
+        "image": "monitor.jpg",
+        "kind": "Output",
+        "info": "Displays text, pictures, videos and the computer interface.",
+        "tip": "Clean the screen with a soft, dry or suitable screen-cleaning cloth."
+      },
+      {
+        "name": "Keyboard",
+        "icon": "⌨️",
+        "image": "keyboard.jpg",
+        "kind": "Input",
+        "info": "An input device used to type letters, numbers, commands and shortcuts.",
+        "tip": "Keep food and liquids away from the keys."
+      },
+      {
+        "name": "Mouse",
+        "icon": "🖱️",
+        "image": "mouse.jpg",
+        "kind": "Input",
+        "info": "Controls the pointer and helps you click, select, drag and scroll.",
+        "tip": "Use the scroll wheel to move through long pages."
+      },
+      {
+        "name": "CPU Cabinet",
+        "icon": "🗄️",
+        "image": "cpu-cabinet.jpg",
+        "kind": "Case",
+        "info": "The cabinet or case protects and holds the main internal computer components.",
+        "tip": "Do not open the cabinet while the power is connected."
+      },
+      {
+        "name": "Processor (CPU)",
+        "icon": "🧠",
+        "image": "processor.jpg",
+        "kind": "Processing",
+        "info": "The CPU executes instructions and performs calculations for programs.",
+        "tip": "CPU performance can be described using clock speed and core count."
+      },
+      {
+        "name": "Motherboard",
+        "icon": "🟩",
+        "image": "motherboard.jpg",
+        "kind": "Main Board",
+        "info": "The main circuit board that connects the processor, RAM, storage and other components.",
+        "tip": "Handle the motherboard carefully and avoid static electricity."
+      },
+      {
+        "name": "RAM",
+        "icon": "📟",
+        "image": "ram.jpg",
+        "kind": "Memory",
+        "info": "Temporary working memory used by programs while the computer is running.",
+        "tip": "More RAM can help when several programs are open at the same time."
+      },
+      {
+        "name": "Hard Disk (HDD)",
+        "icon": "💽",
+        "image": "hard-disk.jpg",
+        "kind": "Storage",
+        "info": "A storage device that keeps files and programs even after the computer is turned off.",
+        "tip": "HDDs contain moving parts, so avoid shocks while they are operating."
+      },
+      {
+        "name": "SSD",
+        "icon": "⚡",
+        "image": "ssd.jpg",
+        "kind": "Storage",
+        "info": "Fast storage that uses flash memory and has no moving disk inside.",
+        "tip": "An SSD can make Windows and applications start faster."
+      },
+      {
+        "name": "Power Supply (SMPS)",
+        "icon": "🔌",
+        "image": "smps.jpg",
+        "kind": "Power",
+        "info": "Converts and supplies the required electrical power to computer components.",
+        "tip": "Use a reliable power source and do not open a power supply unit."
+      },
+      {
+        "name": "Graphics Card",
+        "icon": "🎮",
+        "image": "graphics-card.jpg",
+        "kind": "Processing",
+        "info": "Processes graphics and sends visual output to a display. Some computers use integrated graphics instead.",
+        "tip": "Keep the graphics card and its cooling system free from dust."
+      },
+      {
+        "name": "Cooling Fan",
+        "icon": "🌀",
+        "image": "cooling-fan.jpg",
+        "kind": "Cooling",
+        "info": "Moves air to help remove heat from the processor, cabinet and other components.",
+        "tip": "Blocked vents can increase temperature."
+      },
+      {
+        "name": "Printer",
+        "icon": "🖨️",
+        "image": "printer.jpg",
+        "kind": "Output",
+        "info": "Produces a physical copy of digital documents or images.",
+        "tip": "Check paper and ink or toner before printing."
+      },
+      {
+        "name": "Webcam",
+        "icon": "📷",
+        "image": "webcam.jpg",
+        "kind": "Input",
+        "info": "Captures video for meetings, classes and other applications.",
+        "tip": "Check the privacy settings of apps that use the camera."
+      },
+      {
+        "name": "Microphone",
+        "icon": "🎙️",
+        "image": "microphone.jpg",
+        "kind": "Input",
+        "info": "Captures sound and converts it into an electronic signal for the computer.",
+        "tip": "Check the correct microphone input in sound settings."
+      },
+      {
+        "name": "Speakers",
+        "icon": "🔊",
+        "image": "speakers.jpg",
+        "kind": "Output",
+        "info": "Play sound from music, videos, meetings and applications.",
+        "tip": "Adjust volume before playing loud audio."
+      },
+      {
+        "name": "UPS",
+        "icon": "🔋",
+        "image": "ups.jpg",
+        "kind": "Power Backup",
+        "info": "Provides temporary backup power and can help protect a computer from some power problems.",
+        "tip": "A UPS gives you time to save work and shut down safely during an outage."
+      },
+      {
+        "name": "Pen Drive",
+        "icon": "💾",
+        "image": "pendrive.jpg",
+        "kind": "Storage",
+        "info": "A portable USB storage device used to transfer files between computers.",
+        "tip": "Use the safe eject option before removing it."
+      },
+      {
+        "name": "Wi-Fi Adapter",
+        "icon": "📶",
+        "image": "wifi-adapter.jpg",
+        "kind": "Network",
+        "info": "Allows a computer to connect to a wireless network when supported by the adapter.",
+        "tip": "Check drivers if the wireless device is not detected."
+      },
+      {
+        "name": "Ethernet Network Card",
+        "icon": "🌐",
+        "image": "network-card.jpg",
+        "kind": "Network",
+        "info": "Provides a wired network connection using an Ethernet cable.",
+        "tip": "A wired connection is often useful for stable local networking."
+      }
+    ]
+  },
+  {
+    "id": "software",
+    "title": "Software",
+    "icon": "💿",
+    "intro": "Software is a collection of programs and instructions that tell the computer what to do.",
+    "type": "steps",
+    "items": [
+      "Windows is an operating system used to manage the computer, hardware, files and applications.",
+      "MS Word is used to create and format documents such as letters, assignments and notices.",
+      "MS Excel is used for tables, calculations, lists, formulas and basic data analysis.",
+      "PowerPoint is used to create presentations with slides, text, pictures and diagrams.",
+      "A web browser is used to open websites and web applications on the internet.",
+      "File Explorer is used to create, copy, move, rename and organize files and folders.",
+      "MS Paint is a simple drawing and image-editing application.",
+      "Antivirus and security tools help protect a computer from malicious software.",
+      "Notepad is a simple text editor useful for plain text notes and basic files.",
+      "A PDF reader is used to open and read PDF documents."
+    ]
+  },
+  {
+    "id": "paint",
+    "title": "MS Paint",
+    "icon": "🎨",
+    "intro": "Paint is a simple program for drawing, colouring and basic image editing.",
+    "type": "steps",
+    "items": [
+      "Click Start, type Paint and press Enter.",
+      "Choose Pencil, Brush or another drawing tool.",
+      "Select a colour from the colour controls.",
+      "Hold the left mouse button and move the pointer to draw.",
+      "Use Eraser to remove unwanted parts.",
+      "Use Ctrl + Z to undo a recent action.",
+      "Use Fill to colour a closed area.",
+      "Use Select, Crop or Resize when you need to edit an image.",
+      "Press Ctrl + S to save your work."
+    ]
+  },
+  {
+    "id": "word",
+    "title": "MS Word",
+    "icon": "📝",
+    "intro": "Word is used to create documents such as letters, assignments, reports and notices.",
+    "type": "steps",
+    "items": [
+      "Click Start, type Word and press Enter.",
+      "Choose Blank document.",
+      "Type your content using the keyboard.",
+      "Select text by dragging the mouse over it.",
+      "Use the Home tab to change font, size and text colour.",
+      "Use Bold, Italic and Underline to format selected text.",
+      "Use alignment tools to position text.",
+      "Insert pictures or tables when required.",
+      "Press Ctrl + S to save and Ctrl + P to print."
+    ]
+  },
+  {
+    "id": "shortcuts",
+    "title": "Shortcut Keys",
+    "icon": "⌨️",
+    "intro": "Keyboard shortcuts can make common computer tasks faster. Hold the first key and then press the second key.",
+    "type": "keys",
+    "items": [
+      {
+        "keys": "Ctrl + C",
+        "action": "Copy"
+      },
+      {
+        "keys": "Ctrl + X",
+        "action": "Cut"
+      },
+      {
+        "keys": "Ctrl + V",
+        "action": "Paste"
+      },
+      {
+        "keys": "Ctrl + Z",
+        "action": "Undo"
+      },
+      {
+        "keys": "Ctrl + Y",
+        "action": "Redo"
+      },
+      {
+        "keys": "Ctrl + A",
+        "action": "Select all"
+      },
+      {
+        "keys": "Ctrl + S",
+        "action": "Save"
+      },
+      {
+        "keys": "Ctrl + P",
+        "action": "Print"
+      },
+      {
+        "keys": "Ctrl + F",
+        "action": "Find"
+      },
+      {
+        "keys": "Alt + Tab",
+        "action": "Switch window"
+      },
+      {
+        "keys": "Alt + F4",
+        "action": "Close window"
+      },
+      {
+        "keys": "Win + D",
+        "action": "Show desktop"
+      },
+      {
+        "keys": "Ctrl + B",
+        "action": "Bold in Word"
+      },
+      {
+        "keys": "Ctrl + I",
+        "action": "Italic in Word"
+      },
+      {
+        "keys": "Ctrl + U",
+        "action": "Underline in Word"
+      },
+      {
+        "keys": "Ctrl + E",
+        "action": "Centre text in Word"
+      },
+      {
+        "keys": "Ctrl + N",
+        "action": "New file or document"
+      },
+      {
+        "keys": "F2",
+        "action": "Rename selected file"
+      },
+      {
+        "keys": "Ctrl + Shift + N",
+        "action": "Create new folder"
+      },
+      {
+        "keys": "Ctrl + W",
+        "action": "Close current tab/window"
+      },
+      {
+        "keys": "Win + E",
+        "action": "Open File Explorer"
+      }
+    ]
+  }
+]

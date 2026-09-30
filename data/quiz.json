@@ -1,0 +1,122 @@
+[
+  {
+    "q": "Which part is often called the brain of the computer?",
+    "options": [
+      "Monitor",
+      "Processor (CPU)",
+      "Mouse",
+      "Printer"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which is an input device?",
+    "options": [
+      "Speaker",
+      "Monitor",
+      "Keyboard",
+      "Printer"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which shortcut key copies selected text or a file?",
+    "options": [
+      "Ctrl + V",
+      "Ctrl + C",
+      "Ctrl + Z",
+      "Ctrl + P"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which program is commonly used to draw pictures?",
+    "options": [
+      "Paint",
+      "Word",
+      "Calculator",
+      "Clock"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which shortcut makes text bold in MS Word?",
+    "options": [
+      "Ctrl + U",
+      "Ctrl + I",
+      "Ctrl + B",
+      "Ctrl + S"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What does RAM mainly provide?",
+    "options": [
+      "Permanent paper storage",
+      "Temporary working memory",
+      "Sound output",
+      "Internet service"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which device is used for long-term storage?",
+    "options": [
+      "RAM",
+      "Keyboard",
+      "SSD",
+      "Monitor"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the main purpose of a motherboard?",
+    "options": [
+      "Print documents",
+      "Connect computer components",
+      "Display pictures",
+      "Play only music"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which software is used to browse websites?",
+    "options": [
+      "Web browser",
+      "Paint",
+      "Calculator",
+      "File compressor"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which tool is used to organize files and folders in Windows?",
+    "options": [
+      "File Explorer",
+      "Paint",
+      "Speaker",
+      "Keyboard"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What should you do before removing a USB pen drive?",
+    "options": [
+      "Turn the monitor upside down",
+      "Use safe eject when appropriate",
+      "Delete Windows",
+      "Open the power supply"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the purpose of a UPS?",
+    "options": [
+      "Create documents",
+      "Provide temporary power backup",
+      "Increase screen size",
+      "Print photos"
+    ],
+    "answer": 1
+  }
+]

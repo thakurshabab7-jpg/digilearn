@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="DigiLearn - simple and practical computer learning for students.">
+  <title>DigiLearn | Computer Skills Learning</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="hero-inner">
+      <div class="brand-badge">💻 DIGITAL LEARNING</div>
+      <h1>DigiLearn</h1>
+      <p>Learn computers step by step — hardware, software, practical skills and more.</p>
+      <div class="hero-actions">
+        <button class="primary" onclick="openSection('hardware')">Start Learning</button>
+        <button class="secondary" onclick="openSection('quiz')">Take Quiz</button>
+      </div>
+      <div class="hero-stats">
+        <div><strong id="lessonCount">0</strong><span>Learning Topics</span></div>
+        <div><strong id="hardwareCount">0</strong><span>Hardware Parts</span></div>
+        <div><strong id="quizCount">0</strong><span>Quiz Questions</span></div>
+      </div>
+    </div>
+  </header>
+
+  <nav id="menu" aria-label="Main navigation"></nav>
+
+  <main id="content">
+    <section class="welcome">
+      <div>
+        <span class="eyebrow">WELCOME TO DIGILEARN</span>
+        <h2>Build your computer skills with simple explanations.</h2>
+        <p>Explore computer hardware, software, Windows basics, practical skills, keyboard shortcuts and quizzes in one place.</p>
+        <button class="primary" onclick="openSection('hardware')">Explore Topics →</button>
+      </div>
+      <div class="welcome-art">
+        <div class="monitor-art">🖥️</div>
+        <div class="art-label">Learn • Practice • Improve</div>
+      </div>
+    </section>
+
+    <section class="feature-grid">
+      <article class="feature-card"><span>🖥️</span><h3>Hardware</h3><p>Understand the main parts of a desktop computer and their uses.</p></article>
+      <article class="feature-card"><span>💿</span><h3>Software</h3><p>Learn about Windows and common programs used in daily computer work.</p></article>
+      <article class="feature-card"><span>🛠️</span><h3>Practical Skills</h3><p>Learn simple file, folder, Windows and troubleshooting tasks.</p></article>
+      <article class="feature-card"><span>📝</span><h3>Quiz</h3><p>Test what you have learned and see your score.</p></article>
+    </section>
+  </main>
+
+  <footer>
+    <div class="footer-brand">DigiLearn</div>
+    <p>Simple computer learning for students and beginners.</p>
+    <small>© 2026 DigiLearn • Learn. Practice. Grow.</small>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
