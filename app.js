@@ -1,4 +1,4 @@
-const API = "";
+const API = location.hostname === "localhost" ? "http://localhost:3000: "";
 const menu = document.getElementById("menu");
 const content = document.getElementById("content");
 
