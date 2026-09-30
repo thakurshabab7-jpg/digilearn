@@ -1,4 +1,4 @@
-const API = location.port === "3000" ? "" : "http://localhost:3000";
+const API = "";
 const menu = document.getElementById("menu");
 const content = document.getElementById("content");
 
